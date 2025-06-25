@@ -1,0 +1,5 @@
+# Create project folder
+mkdir multi_tool_agent && cd multi_tool_agent
+
+# Create required files
+touch __init__.py agent.py .env
